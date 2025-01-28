@@ -1,11 +1,11 @@
 let interval = 3; // sec
 
 const imagesArr = [
-  { src: "/img/1.jpg" },
-  { src: "/img/2.jpg" },
-  { src: "/img/3.jpg" },
-  { src: "/img/4.jpg" },
-  { src: "/img/5.jpg" },
+  { src: "/js11-2/img/1.jpg" },
+  { src: "/js11-2/img/2.jpg" },
+  { src: "/js11-2/img/3.jpg" },
+  { src: "/js11-2/img/4.jpg" },
+  { src: "/js11-2/img/5.jpg" },
 ];
 let sliderCount = imagesArr.length;
 
